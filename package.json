@@ -1,0 +1,11 @@
+{
+  "name": "restroom_rater",
+  "version": "1.0.0",
+  "description": "mark and rate local restrooms",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "John Cigale",
+  "license": "ISC"
+}
