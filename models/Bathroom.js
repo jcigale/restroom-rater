@@ -28,4 +28,4 @@ const BathroomSchema = new Schema({
   }
 });
 
-module.exports = Tweet = mongoose.model('tweet', TweetSchema);
+module.exports = Bathroom = mongoose.model('bathroom', BathroomSchema);
